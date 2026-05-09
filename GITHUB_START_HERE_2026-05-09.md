@@ -1,6 +1,6 @@
 # MCA Contracts — Start Here (2026-05-09)
 
-This is the current handoff after the 2026-05-09 visual/legal QA pass and the final disclosure-table polish pass.
+This is the current handoff after the 2026-05-09 visual/legal QA pass, disclosure-table polish pass, and litigation-readiness questionnaire pass.
 
 ## Current deploy file
 
@@ -29,6 +29,7 @@ Main files:
 - Fixed the Security Agreement opening overlap.
 - Tightened POA, Authorization, Schedule A, pre-funding questionnaire, disclosure, and signature-heavy page compositions.
 - Rebuilt the Sales-Based Financing Disclosure first page as a clean table so every financing value is present and no provider-email overlay can interfere with amount rows.
+- Redesigned the Pre-Funding Questionnaire so the intake/factoring fields are compact and the protective Questions & Disclosures are larger, cleaner, and more readable for signing, litigation, or regulator review.
 - Clarified EIN entry: primary Seller EIN goes in the primary Seller EIN field; additional entity EINs go in their own Schedule A rows.
 - Verified ICC metadata: ICC disclosure intentionally uses `submissions@EastShoreEquities.com`, matching the real sample contracts provided.
 
@@ -51,3 +52,6 @@ Final extra check:
 - Re-generated the 9-scenario matrix locally after the disclosure rebuild.
 - Confirmed all 9 scenarios still report `problems: []`.
 - Re-reviewed the high-risk page sheets for ESE, ICC, and SMB stress packets.
+- Re-generated the 9-scenario matrix again after the Pre-Funding Questionnaire litigation-readiness redesign.
+- Confirmed all 9 scenarios still report `problems: []`.
+- Re-reviewed the full-size questionnaire pages in normal, long-name, two-owner, ICC, and SMB stress packets.
