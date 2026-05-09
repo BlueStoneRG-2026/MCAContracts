@@ -1,5 +1,8 @@
 # MCA Contracts — Start Here (2026-05-08)
 
+> Superseded by `GITHUB_START_HERE_2026-05-09.md`.
+> The current verified deploy package is `MCAContracts_Netlify_Deploy_Current_2026-05-09.zip`.
+
 This repo is being used as the cross-computer handoff point for the MCA contract tool project.
 
 ## Start with these files

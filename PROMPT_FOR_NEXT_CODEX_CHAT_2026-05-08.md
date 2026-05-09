@@ -1,3 +1,5 @@
+Superseded by `PROMPT_FOR_NEXT_CODEX_CHAT_2026-05-09.md`.
+
 Open the GitHub repo first and work only from that handoff:
 
 - Repo: `https://github.com/BlueStoneRG-2026/MCAContracts`

@@ -1,5 +1,8 @@
 # Latest Visual / Legal Output Issues (2026-05-08)
 
+> Superseded by `LATEST_VISUAL_QA_RESOLVED_2026-05-09.md`.
+> The 2026-05-09 build resolved the known priority issues listed here and passed the final browser-generated PDF matrix.
+
 These notes capture the newest problems found after deploying `MCAContracts_Netlify_Deploy_Current_2026-05-08.zip` and generating a fresh packet.
 
 The corresponding screenshots are also preserved inside the pickup bundle under:
