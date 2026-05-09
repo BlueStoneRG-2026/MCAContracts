@@ -15,6 +15,7 @@ The latest verified deploy package is:
 7. ICC entity metadata: verified against supplied real-life samples. ICC uses Iron Crown Capital, LLC with `submissions@EastShoreEquities.com`.
 8. Agreement first table white-box artifacts: replaced with a clean custom information grid.
 9. Multiple EIN handling: primary Seller EIN remains separate; Schedule A entity EINs are entered one per entity row.
+10. Sales-Based Financing Disclosure value alignment: rebuilt the first disclosure page as a clean table so Provider E-Mail, Total Amount, Fees Deducted, Disbursement Amount, Finance Charge, Total Repayment Amount, Total Cost, Estimated Number of Payments, and Payment Schedule values all render in their own cells without overlay artifacts.
 
 ## Final QA matrix
 
@@ -32,3 +33,4 @@ The final browser-generated PDF matrix covered:
 
 All nine scenarios produced `problems: []` in the QA log and were visually reviewed through generated page PNGs / high-risk review sheets.
 
+After the disclosure-table rebuild, the same nine-scenario matrix was generated again locally from the patched deploy source. All nine scenarios again produced `problems: []`, and the ESE/ICC/SMB high-risk sheets were re-reviewed.
