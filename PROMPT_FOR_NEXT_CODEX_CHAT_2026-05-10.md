@@ -9,8 +9,7 @@ Start by reading:
 
 Current preferred deploy package:
 
-- `MCAContracts_Netlify_Deploy_LegalParity_2026-05-10_FINAL_VERIFIED.zip`
-- `MCAContracts_Netlify_Deploy_LegalParity_2026-05-10.zip`
+- `MCAContracts_Netlify_Deploy_LegalParity_2026-05-10_FINAL_VERIFIED_20260510a.zip`
 
 Fallback same-content deploy package:
 
@@ -32,4 +31,4 @@ Critical reminders:
 4. Keep the LLC checkbox `X` associated with Limited Liability Company for the JLD source deal.
 5. Schedule A should omit the EIN column when Schedule A entity EINs are blank, but preserve the EIN-capable layout when EINs are provided.
 6. Do not claim a legal-content fix without regenerating real PDFs and checking extracted text plus the high-risk page images.
-7. The latest pass fixed the remaining live-test blockers: pre-funding/declaration page mapping, missing consent page 1 sections, extra Notice of Assignment record/table text, and one-owner suppression of Seller #2 disclosure blocks.
+7. The 2026-05-10a package specifically fixes SMB page 42 / Declaration of Ordinary Course by rendering the Declaration pages as full custom pages, removing the incomplete short seller phrase from extracted text.
