@@ -1,0 +1,397 @@
+{
+  "appUrl": "http://127.0.0.1:4182/?autotest=1",
+  "originalPdf": "/Users/juanreyes/Downloads/JLD Original to compare to .pdf",
+  "generatedFiles": {
+    "main": "/Users/juanreyes/Documents/Codex/2026-05-08/open-the-github-repo-first-and/MCAContracts-main/live_jld_parity_audit_2026_05_10b/generated/JL_D_Electric_LLC_MCA_Contract_SMB.pdf",
+    "writtenConsent": "/Users/juanreyes/Documents/Codex/2026-05-08/open-the-github-repo-first-and/MCAContracts-main/live_jld_parity_audit_2026_05_10b/generated/JL_D_Electric_LLC_Written_Consent_SMB.pdf",
+    "saved": [
+      "/Users/juanreyes/Documents/Codex/2026-05-08/open-the-github-repo-first-and/MCAContracts-main/live_jld_parity_audit_2026_05_10b/generated/JL_D_Electric_LLC_MCA_Contract_SMB.pdf",
+      "/Users/juanreyes/Documents/Codex/2026-05-08/open-the-github-repo-first-and/MCAContracts-main/live_jld_parity_audit_2026_05_10b/generated/JL_D_Electric_LLC_Written_Consent_SMB.pdf"
+    ]
+  },
+  "result": {
+    "checks": [
+      {
+        "name": "Main PDF page count matches original",
+        "pass": true,
+        "detail": "original=58, generated=58"
+      },
+      {
+        "name": "Expected 58-page JLD packet",
+        "pass": true,
+        "detail": "generated=58"
+      },
+      {
+        "name": "No raw template placeholders",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "No blank acknowledgment fee phrase",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "No blank acknowledgment date phrase",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "No duplicate empty PSFRA first pass",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "No blank party openings in consents or addenda",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "No assignment notice record artifact",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "No security agreement numbering glitch",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Required source text present: I, JULIO VELAZQUEZ VILLALOBOS, on behalf of Seller, hereby acknowled",
+        "pass": true,
+        "detail": "I, JULIO VELAZQUEZ VILLALOBOS, on behalf of Seller, hereby acknowledge, fully agree with and understand:"
+      },
+      {
+        "name": "Required source text present: The fee amount for this agreement is $1,560, which will be deducted ",
+        "pass": true,
+        "detail": "The fee amount for this agreement is $1,560, which will be deducted from the funding amount."
+      },
+      {
+        "name": "Required source text present: I confirm that there have been no contacts or communications from Th",
+        "pass": true,
+        "detail": "I confirm that there have been no contacts or communications from Third Party Debt Companies regarding this agreement dated 05/04/26."
+      },
+      {
+        "name": "Required source text present: I, the undersigned acknowledge that I have read, comprehended, and a",
+        "pass": true,
+        "detail": "I, the undersigned acknowledge that I have read, comprehended, and accepted all the provisions stated above. which are also described in detail within the paged of this document."
+      },
+      {
+        "name": "Required source text present: East Shore Equities SMB, LLC., mailing address at P.O. Box 18, Cente",
+        "pass": true,
+        "detail": "East Shore Equities SMB, LLC., mailing address at P.O. Box 18, Centereach, NY 11720"
+      },
+      {
+        "name": "Required source text present: Seller: JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D El",
+        "pass": true,
+        "detail": "Seller: JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference"
+      },
+      {
+        "name": "Required source text present: D/B/A JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Elec",
+        "pass": true,
+        "detail": "D/B/A JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference"
+      },
+      {
+        "name": "Required source text present: Type of Business Entity Corp Limited Liability Company X Partnership",
+        "pass": true,
+        "detail": "Type of Business Entity Corp Limited Liability Company X Partnership Limited Partneship Limited Liability Partnership Sole Prop Entity State SC"
+      },
+      {
+        "name": "Required source text present: Physical Address 9115 Creek Run, Ladson, SC 29456-3514 Mailing Addre",
+        "pass": true,
+        "detail": "Physical Address 9115 Creek Run, Ladson, SC 29456-3514 Mailing Address 9115 Creek Run, Ladson, SC 29456-3514 EIN# 32-0677887 Email jldelectric21@gmail.com"
+      },
+      {
+        "name": "Required source text present: PURCHASE PRICE: PURCHASED AMOUNT / RTR PURCHASED PERCENTAGE ESTIMATE",
+        "pass": true,
+        "detail": "PURCHASE PRICE: PURCHASED AMOUNT / RTR PURCHASED PERCENTAGE ESTIMATED REMITTANCE AMOUNT** FREQUENCY TOTAL AMOUNT SELLER WILL RECEIVE++ $13,000 $19,487 4.9% $149.90 daily $11,440"
+      },
+      {
+        "name": "Required source text present: Account Number: Routing Number: 334079788931 061000052",
+        "pass": true,
+        "detail": "Account Number: Routing Number: 334079788931 061000052"
+      },
+      {
+        "name": "Required source text present: ANY MISREPRESENTATION MADE BY SELLER OR ANY AGENT OF SELLER IN CONNE",
+        "pass": true,
+        "detail": "ANY MISREPRESENTATION MADE BY SELLER OR ANY AGENT OF SELLER IN CONNECTION WITH OR IN THE PROCUREMENT OF THIS AGREEMENT SHALL CONSTITUTE AN IMMEDIATE DEFAULT HEREUNDER."
+      },
+      {
+        "name": "Required source text present: OWNER/GUARANTOR #1 OWNER/GUARANTOR #2",
+        "pass": true,
+        "detail": "OWNER/GUARANTOR #1 OWNER/GUARANTOR #2"
+      },
+      {
+        "name": "Required source text present: SELLER #1 SELLER #2",
+        "pass": true,
+        "detail": "SELLER #1 SELLER #2"
+      },
+      {
+        "name": "Required source text present: NO UCC-3 (TERMINATION) FILING OR ISSUANCE OF A ZERO BALANCE LETTER",
+        "pass": true,
+        "detail": "NO UCC-3 (TERMINATION) FILING OR ISSUANCE OF A ZERO BALANCE LETTER"
+      },
+      {
+        "name": "Required source text present: AUTHORIZATION AGREEMENT FOR DIRECT DEPOSITS",
+        "pass": true,
+        "detail": "AUTHORIZATION AGREEMENT FOR DIRECT DEPOSITS"
+      },
+      {
+        "name": "Required source text present: Mediation and Civil Arbitration, Inc. d/b/a RapidRuling",
+        "pass": true,
+        "detail": "Mediation and Civil Arbitration, Inc. d/b/a RapidRuling"
+      },
+      {
+        "name": "Required source text present: 5788 Merrick Rd STE 205, Massapequa, NY 11758",
+        "pass": true,
+        "detail": "5788 Merrick Rd STE 205, Massapequa, NY 11758"
+      },
+      {
+        "name": "Required source text present: Merchant Entity Table Signature(s)",
+        "pass": true,
+        "detail": "Merchant Entity Table Signature(s)"
+      },
+      {
+        "name": "Required source text present: # Legal Business Name Entity Type State Business Address 1 JL&D DBA ",
+        "pass": true,
+        "detail": "# Legal Business Name Entity Type State Business Address 1 JL&D DBA SC 9115 Creek Run, Ladson, SC 29456-3514"
+      },
+      {
+        "name": "Required source text present: each additional entity listed in Schedule A attached to the Agreemen",
+        "pass": true,
+        "detail": "each additional entity listed in Schedule A attached to the Agreement and incorporated herein by reference"
+      },
+      {
+        "name": "Required source text present: ADDENDUM – UNIVERSAL INTERMEDIARY / ISO (BROKER) STIPULATION, NON-AG",
+        "pass": true,
+        "detail": "ADDENDUM – UNIVERSAL INTERMEDIARY / ISO (BROKER) STIPULATION, NON-AGENCY, WAIVER, AND INDEMNITY"
+      },
+      {
+        "name": "Required source text present: REQUIRED ACKNOWLEDGMENT BY INITIALS",
+        "pass": true,
+        "detail": "REQUIRED ACKNOWLEDGMENT BY INITIALS"
+      },
+      {
+        "name": "Acknowledgment retains source typo \"paged\"",
+        "pass": true,
+        "detail": "Source PDF contains \"paged\"; generated must not silently normalize legal text."
+      },
+      {
+        "name": "Acknowledgment does not use normalized \"pages\" ending",
+        "pass": true,
+        "detail": "Generated should mirror source wording."
+      },
+      {
+        "name": "Revenue Confidence page 6 is the original signature page",
+        "pass": true,
+        "detail": "Page 6 must not be the 7-page intro continuation."
+      },
+      {
+        "name": "No stray 7-page Revenue Confidence intro continuation",
+        "pass": true,
+        "detail": "The original JLD packet has a 6-page Revenue Confidence Form."
+      },
+      {
+        "name": "Sales-based disclosure duplicate acknowledgment preserved",
+        "pass": true,
+        "detail": "count=2"
+      },
+      {
+        "name": "Broker addendum Schedule A wording mirrors original",
+        "pass": true,
+        "detail": "Broker addendum must use source wording \"attached to the Agreement\", not the generic \"attached hereto\" suffix."
+      },
+      {
+        "name": "PSFRA page 8 block order mirrors original source",
+        "pass": true,
+        "detail": "positions=16,784,1556,2824,2997,3175,3357,3537"
+      },
+      {
+        "name": "Page 20 arbitration block is not duplicated",
+        "pass": true,
+        "detail": "count=1"
+      },
+      {
+        "name": "Page 20 NO UCC-3 block is present once",
+        "pass": true,
+        "detail": "count=1"
+      },
+      {
+        "name": "Guaranty waiver continuation is present",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Guaranty arbitration populated with seller email",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Guaranty notices populated with guarantor address",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "No extraction-visible blank guaranty service email phrase",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Guaranty signature page carries owner SSN",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Liquidated damages consent page 1 is single populated render",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Liquidated damages consent signature carries owner SSN",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Governing law consent execution date is populated",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Governing law consent signature carries owner SSN",
+        "pass": true,
+        "detail": ""
+      },
+      {
+        "name": "Heading/count parity: ach",
+        "pass": true,
+        "detail": "original=4, generated=4"
+      },
+      {
+        "name": "Heading/count parity: ownerGuarantor2",
+        "pass": true,
+        "detail": "original=8, generated=8"
+      },
+      {
+        "name": "Heading/count parity: seller2",
+        "pass": true,
+        "detail": "original=7, generated=7"
+      },
+      {
+        "name": "Heading/count parity: ordinaryCourse",
+        "pass": true,
+        "detail": "original=1, generated=1"
+      },
+      {
+        "name": "Heading/count parity: liquidatedDamages",
+        "pass": true,
+        "detail": "original=2, generated=2"
+      },
+      {
+        "name": "Heading/count parity: governingLaw",
+        "pass": true,
+        "detail": "original=1, generated=1"
+      }
+    ],
+    "chunkAudit": {
+      "totalChunks": 569,
+      "missing": [
+        "The Fee Structure comprehensively outlines all fees, including but not limited to bounced/ returned/NSF payment and default fees, and explains how these fees are assessed, charged, and applied.",
+        "JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference D/B/A JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Type of Business Entity Corp Limited Liability Company X Partnership Limited Partneship Limited Liability Partnership Sole Prop Entity State SC Physical Address 9115 Creek Run, Ladson, SC 29456-3514 Mailing Address 9115 Creek Run, Ladson, SC 29456-3514 EIN# 32-0677887 Email jldelectric21@gmail.com THE TERMS, DEFINITIONS, CONDITIONS AND INFORMATION SET FORTH WITHIN THIS PSFRA, the SELLER AGREEMENT TERMS AND CONDITIONS, the SECURITY AGREEMENT, the PERSONAL GUARANTY(S) OF PERFORMANCE, APPENDIX A:",
+        "[Remainder of Page Intentionally Left Blank] ANY MISREPRESENTATION MADE BY SELLER OR ANY AGENT OF SELLER IN CONNECTION WITH OR IN THE PROCUREMENT OF THIS AGREEMENT SHALL CONSTITUTE AN IMMEDIATE DEFAULT HEREUNDER.",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# SS# OWNER/GUARANTOR #1 OWNER/GUARANTOR #2 By:",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title Print Name and Title SELLER AGREEMENT TERMS AND CONDITIONS These SELLER AGREEMENT TERMS AND CONDITIONS (\"Terms\"), which incorporate additional terms to the AGREEMENT FOR PURCHASE AND SALE OF FUTURE RECEIVABLES, the SECURITY AGREEMENT, the PERSONAL GUARANTY(S) OF PERFORMANCE, the POWER OF ATTORNEY, APPENDIX A:",
+        "Seller and Guarantor authorize Company and its agents to investigate their financial history and will provide Company with all financial records as reasonably requested, including, but not limited to, any bank or financial statements, tax returns, merchant processing statements and access to online financial records as Company deems necessary prior to or at any time after execution of this Agreement.",
+        "As such, there is no interest rate or payment schedule and no time period during which the Purchased Amount must be collected by Company.",
+        "(g) Seller fails to respond to any communications, including electronic mail communications, initiated by Company concerning any dishonor of any ACH debit initiated by Company for a period exceeding 72 hours or 2 business days, whichever is longer;",
+        "Company or any of its agents shall have the right to inspect, audit, check, and make extracts from any copies of the books, records, journals, orders, receipts, and/or correspondence that relate to Seller's accounts or other transactions between the parties thereto and the general financial condition of Seller, and Company may remove any of such records temporarily for the purpose of having copies made thereof.",
+        "Company may request statements at any time during the performance of this Agreement and the Seller and Guarantor shall provide them to Company within three (3) business days of such a request.",
+        "Based upon Seller's and Guarantor's calculations and experience in operating Seller's business, Seller and Guarantors) are confident that the Purchase Price paid by Company in exchange for the Purchased Amount of Future Receipts constitutes fair consideration for the present value of such Future Receipts and will be used in a manner that will benefit Seller's current and future business operations.",
+        "9115 Creek Run, Ladson, SC 29456-3514 jldelectric21@gmail.com or at such other address as the party to whom such notice or demand Is directed may have designated in writing to the other party hereto by notice as provided in this Section 3.3.",
+        "The parties to this Agreement acknowledge that this Agreement is a result of extensive negotiations between the parties and that this Agreement shall be construed without regard to any presumption or rule requiring construction or interpretation against the party drafting or causing any instrument to be drafted.",
+        "The parties hereto acknowledge that each makes this waiver knowingly, willingly, and voluntarily and w i t h o u t d u r e s s , a n d o n l y a f t e r e x t e n s i v e consideration of the ramifications of this waiver with their attorneys.",
+        "and (2) the party who initiates or participates as a member of the class will not submit claim or otherwise participate in any recovery s e c u r e d t h r o u g h t h e c l a s s , c o l l e c t i v e o r representative action.",
+        "Notwithstanding the foregoing, any dispute, claim or controversy arising out of or relating to this Agreement, the Security Agreement or the guaranty(s) herein, or the breach of any of the said Agreement, Security Agreement or the guaranty(s), shall be, at the election of either party, settled by arbitration administered by Mediation and C i v i l A r b i t r a t i o n , I n c .",
+        "d / b / a R a p i d R u l i n g (www.rapidruling.com) in accordance with its Arbitration Rules & Procedures effective at the time a claim is made, and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.",
+        "The parties consent to electronic service of process, with service to be made to the following email addresses j l d e l e c t r i c 2 1 @ g m a i l .",
+        "c o m a n d Submissions@eastshoreequities.com and/or when mailed, postage prepaid, via 2-3-day shipping through a nationally recognized courier, including, but not limited to, the USPS, FedEx or UPS, such notices or communications to be sent to the addresses provided in section 3.3 hereof.",
+        "For the avoidance of doubt, lack of actual receipt or refusal to accept delivery shall not affect the effectiveness of any such notice or communication provided that such notice is properly directed to the above- mentioned email address(es).",
+        "d/b/a RapidRuling fees evenly and the commencing party shall be entitled to any unreimbursed monies paid on behalf of the non- commencing party within any award.",
+        "N O U C C - 3 ( T E R M I N AT I O N ) F I L I N G O R ISSUANCE OF A ZERO BALANCE LETTER UNTIL COMPLETE TERMINATION (AS DEFINED HEREIN):",
+        "In recognition of the Company's entitlement to its attorney's fees, default fees, and other expenses (as outlined in Appendix A and in this Agreement) incurred in connection with this Agreement and secured by the Collateral, and notwithstanding the payment in full of the Purchased Amount, the Company shall not be obligated to record any terminations or satisfactions of any of its liens on the Collateral, nor issue any letters stating that there is a zero balance owed, unless and until the following conditions have been fully satisfied:",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title Print Name and Title GUARANTY - PERSONAL GUARANTY(S) OF PERFORMANCE This PERSONAL GUARANTY OF PERFORMANCE is entered into in conjunction with that certain AGREEMENT FOR PURCHASE AND SALE OF FUTURE RECEIVABLES (hereinafter \"PSFRA\", which together with the SELLER AGREEMENT TERMS AND CONDITIONS, the SECURITY AGREEMENT, the PERSONAL GUARANTY(S) OF PERFORMANCE, the POWER OF ATTORNEY, APPENDIX A:",
+        "THE FEE STRUCTURE and any appendices and addenda hereto and executed in conjunction herewith, shall be collectively referred to as the \"Agreement\"), made at the specific insistence and request of JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference (\"Seller\") on this date 05/04/26 and made within the State of New York, County of Nassau, by and between East Shore Equities SMB, LLC., mailing address at 5788 Merrick Rd STE 205, Massapequa, NY 11758 (the \"Company\"), and Seller, having an office at 9115 Creek Run, Ladson, SC 29456-3514 .",
+        "The parties' consent to electronic service of process, with service to be made to the following email a d d r e s s e s j l d e l e c t r i c 2 1 @ g m a i l .",
+        "c o m a n d Submissions@eastshoreequities.com and/or when mailed, postage prepaid, via 2-3-day shipping through a nationally recognized courier, including, but not limited to, the USPS, FedEx or UPS, such notices or communications to be sent to the addresses provided in section 3.3 of the Agreement (\"Notices\").",
+        "[Remainder of Page Intentionally Left Blank] THE SELLER AGREEMENT TERMS AND CONDITIONS, ALONG WITH ALL DEFINITIONS AND INFORMATION SET FORTH THEREIN ARE HEREBY INCORPORATED IN AND MADE A PART OF THIS GUARANTY.",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# SS# East Shore Equities SMB, LLC.",
+        "JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference D/B/A:",
+        "JULIO VELAZQUEZ VILLALOBOS and Federal TAX ID# 32-0677887 Personal Guarantor(s)' Name(s) (\"Personal Guarantor(s)\") JULIO VELAZQUEZ VILLALOBOS and Social Security# 976-95-6559 / Physical Address:",
+        "Obligor(s) shall furnish ESE, from time to time, upon reasonable request, with financial statements as well as written statements and schedules identifying and describing the Collateral in such detail as ESE may require.",
+        "(vi) Obligor shall execute any written Instruments and do any other acts necessary to effectuate more fully the purposes and provisions of this Agreement, including such instruments as ESE may require to perfect ESEs interest therein in any filing office;",
+        "Seller and Guarantor each hereby authorize Company to file any financing statements deemed necessary by Company to perfect or maintain Company's security interest, which financing statement may contain notification that Seller and Guarantor have granted a negative pledge to Company with respect to the Collateral, the Additional Collateral and the Cross- Collateral, and that any subsequent lien or may be tortiously interfering with Company's rights.",
+        "9115 Creek Run, Ladson, SC 29456-3514 jldelectric21@gmail.com or at such other address as the party to whom such notice or demand Is directed may have designated in writing to the other party hereto by notice as provided in this section 18.",
+        "c o m a n d Submissions@eastshoreequities.com and/or when mailed, postage prepaid, via 2-3-day shipping through a nationally recognized courier, including, but not limited to, t h e U S P S , F e d E x o r U P S , s u c h n o t i c e s o r communications to be sent to the addresses provided in section 18 hereof.",
+        "The parties agree that, in the event of confirmation and enforcement, [Remainder of Page Intentionally Left Blank] the delinquent party will be responsible for any attorney, court, or other fees associated with such action.",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature / Owner Print Name and Title Print Name and Title POWER OF ATTORNEY KNOWN ALL BY THESE PRESENTS that I, JULIO VELAZQUEZ VILLALOBOS, principal and/or sole proprietor of JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference, doing business as JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference, at 9115 Creek Run, Ladson, SC 29456-3514 (hereinafter 'Grantor'), does hereby appoint East Shore Equities SMB, LLC., (hereinafter, ''ESE\") as my true and lawful attorney in fact:",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Company Company Page 1 - APPENDIX A:",
+        "Page 2 - APPENDIX A - CONTINUED LEGA L ADVICE The Seller affirms that it had ample opportunity to consult with legal counsel of its choosing regarding this Disclosure, and was advised by the Company to do so.",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Company Company AUTHORIZATION AGREEMENT FOR DIRECT DEPOSITS (ACH CREDITS) AND DIRECT PAYMENTS (ACH DEBITS) This Authorization Agreement for Direct Deposits (ACH Credits) and Direct Payments (\"Daily or Weekly ACH Authorization\") is part of (and incorporated by reference into) the Merchant Agreement (the \"Agreement\").",
+        "Merchant Agreement Between Company and Merchant Dated 05/04/26 DESIGNATED CHECKING ACCOUNT INFORMATION Account Number :__________________________________________ Routing Number:",
+        "For an amount up to $149.90 , daily (or) Percentage of each banking deposit 4.9% together with a nonrefundable monthly fee of $95 pursuant to section 1.22 of the terms and conditions of this PSFRA On the following days:",
+        "JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference SELLER #1 SELLER #2 By:",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Company Company 334079788931 061000052 AUTHORIZATION AGREEMENT FOR DIRECT DEPOSITS (ACH CREDITS) AND DIRECT PAYMENTS (ACH DEBITS) This Authorization Agreement for Direct Deposits (ACH Credits) and Direct Payments (\"Daily or Weekly ACH Authorization\") is part of (and incorporated by reference into) the Merchant Agreement (the \"Agreement\").",
+        "JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference 061000052 334079788931 SELLER #1 SELLER #2 By:",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Company Company JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference DBA JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference and JULIO VELAZQUEZ VILLALOBOS & 9115 Creek Run, Ladson, SC 29456-3514 TO WHOM IT MAY CONCERN:",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Company Company PRE FU N DI N G QUESTIO NN AIRE Business N ame:",
+        "$11,440 Finance Charge $1,560 Total Repayment Amount [Disbursement Amount plus (+) Finance Charge] $19,487 Total Cost [Repayment amount (-) Disbursement Amount] this fi gure does not include all other potential fees that can be incurred throughout the life of this contract.",
+        "AUTHORIZATIO N TO ESE Seller hereby irrevocably authorizes East Shore Equities SMB, LLC (\"ESE\"), and any designee of ESE, at Seller's sole expense, to exercise, at any time and at the discretion of ESE or its designee, any or all of the following powers until all obligations have been paid in full and ESE has filed or authorized the filing of a UCC Financing Statement terminating its Security Interest:",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference SS# JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Company Company CONSENT AND ACKNOWLEDGEMENT OF LIQUIDATED DAMAGES AND FEES (Page 1) This Consent and Acknowledgement (\"Consent\") is made by and between JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference (\"Seller\") and East Shore Equities SMB, LLC (\"Company\").",
+        "Opportunity for Counsel Seller affirms that this Consent was entered into voluntarily, without coercion or misrepresentation , with full knowledge of the consequences and the opportunity to seek legal advice.",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# SS# CONSENT AND ACKNOWLEDGEMENT OF GOVERNING LAW, VENUE, JURISDICTION, AND ARBITRATION This Consent and Acknowledgement (\"Consent\") is made by and between JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference (\"Seller\") and East Shore Equities SMB, LLC (\"Company\").",
+        "The Seller acknowledges that this Consent was executed at arm's length, in good faith, and with full awareness of the legal implications .",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# SS# ADDENDUM TO AGREEMENT FOR PURCHASE AND SALE OF FUTURE RECEIVABLES This Addendum (\"Addendum\") is entered into as of 05/04/26 , by and between East Shore Equities SMB, LLC , with a principal place of business at P.O.",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title Print Name and Title SCHEDULE A - LIST OF MERCHANT ENTITIES Part of the Agreement for Purchase and Sale of Future Receivables This Schedule A is attached to and forms a part of that certain Agreement for Purchase and Sale of Future Receivables dated 05/04/26 (the \"Agreement\"), entered into by and between East Shore Equities SMB, LLC (\"Company\") and JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , together with all additional entities listed below (each, individually, a \"Merchant Entity,\" and collectively, with JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC, the \"Merchant\").",
+        "Each Merchant Entity listed below is hereby deemed to be the \"Merchant\" as that term is used throughout the Agreement and all documents executed in connection therewith, including but not limited to references to \"Seller,\" \"Grantor,\" or \"Obligor\" , all of which shall be construed interchangeably to refer to JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC and all entities listed herein.",
+        "And any and all exhibits, riders, schedules, appendices, or notices incorporated therein or executed in conjunction therewith Each Merchant Entity listed below expressly agrees, acknowledges, and af fi rms the following:",
+        "It is fully bound by the Security Agreement , and consents to the fi ling of UCC-1 Financing Statements against it without further notice;",
+        "It is fully subject to enforcement under UCC § 9-406 , including redirection of payments to Company from any account debtor or third-party payor;",
+        "Electronic signatures on this Schedule A and the Agreement are valid and enforceable pursuant to the ESIGN Act and UETA , and shall carry the full legal force of a handwritten signature.",
+        "Merchant Entity Table Signature(s) By signing below, each Merchant Entity af fi rms it has reviewed and agreed to all terms of the Agreement and con fi rms it is fully bound by all referenced and incorporated documents.",
+        "Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title Print Name and Title # Legal Business Name Entity Type State Business Address 1 JL&D DBA SC 9115 Creek Run, Ladson, SC 29456-3514 Dear Merchant, Thank you for accepting this offer.",
+        "Standard Commercial Protocol Seller acknowledges this Addendum is a standard commercial protocol used by Company in all transactions and all jurisdictions to document the independent status of any intermediary, con fi rm Seller's selection and responsibility for that intermediary, and allocate intermediary-related risk between sophisticated business parties.",
+        "Business Purpose Seller acknowledges and agrees that Company is acting solely as the direct counterparty and commercial fi nancing / receivables-purchase provider , and not as Seller's broker, intermediary, fi nder, or arranger of fi nancing.",
+        "Seller further con fi rms, consistent with the Agreement, that the Transaction is entered into solely for business or commercial purposes in connection with Seller's business and not for personal, family, or household use.",
+        "No Authority Seller represents and agrees that any Broker involved in introducing Seller to Company or assisting Seller with the submission of information was selected by Seller .",
+        "Broker is an independent third party and is not Company's agent, employee, partner, joint venturer, or af fi liate, and has no actual or apparent authority to bind Company or make commitments on Company's behalf.",
+        "Seller acknowledges Broker may present Seller's fi le to other funding sources, and any duties Broker may owe are owed exclusively to Seller , not to Company.",
+        "VOLUNTARY EXECUTION & OPPORTUNITY FOR COUNSEL The undersigned Seller and Guarantors af fi rm that they have read this Addendum separately from the Agreement, had the opportunity to consult independent legal counsel, and are signing knowingly, voluntarily, and without coercion or duress."
+      ]
+    },
+    "snippets": {
+      "originalP8": "Initials : _____ AGREEMENT FOR PURCHASE AND SALE OF FUTURE RECEIVABLES (hereinafter \"PSFRA\", which together with the SELLER AGREEMENT TERMS AND CONDITIONS, the SECURITY AGREEMENT, the PERSONAL GUARANTY(S) OF PERFORMANCE, the POWER OF ATTORNEY, APPENDIX A: THE FEE STRUCTURE, SCHEDULE A: LIST OF MERCHANT ENTITIES, and any appendices and addenda hereto and executed in conjunction herewith, shall be collectively referred to as the \"Agreement\"), made at the specific insistence and request of the entities listed below (\"Seller\") on 05/04/26 and made within the State of New York, County of Nassau, by and between East Shore Equities SMB, LLC., mailing address at P.O. Box 18, Centereach, NY 11720 (the \"Company\"), and Seller, having an office at 9115 Creek Run, Ladson, SC 29456-3514 . * Fee Schedule: See Appendix A:The Fee Structure ** Estimated Remittance Amount represents a good faith estimate of the monetary value of the purchased percentage of daily or weekly receipts based upon historical information provided by Seller and is subject to adjustment to more precisely reflect the actual purchased percentage of daily or weekly receipts pursuant to paragraph 1.4 of this Agreement. + + This amount is calculated as the Purchase Price less any Origination Fees set forth in the above Appendix A: The Fee Structure. Please note: In the event of a renewal or a Payoff of a third party, the \"Total Amount Seller Will Receive\" referenced above will account for payoff of your current outstanding balance or funds paid to satisfy a designated third party. WHEREAS, Seller intends to assign, and Company intends to purchase, a portion of Seller's future receivables; and WHEREAS, Seller hereby, for the purchase price set forth above (the \"Purchase Price\") less any Origination Fees set forth above, does sell, demise and assign the Purchased Percentage of Seller's future receivables, future accounts, future contract rights and other future obligations arising from or relating to the future payment of monies received by Seller (collectively \"Future Receipts\"), as set forth below (the \"Purchased Percentage\"), to Company, whether the proceeds are paid by Cash, ACH, Check, Credit Card, Debit Card, Bank Card, Charge Card, PayPal, Venmo, Zelle, electronic transfer or any other form of payment in the ordinary course of the Seller's business, for the payment of Seller's sale of goods or services (collectively, the \"Purchased Amount\" or \"RTR\") until the Company has received the specified Purchased Amount above; and WHEREAS, Company acknowledges that its recovery of the Purchased Amount is dependent upon Seller's success and that so long as Company receives its Purchased Percentage of Future Sale Proceeds as required hereunder, the amount of time necessary for Company to recover the Purchased Amount is indefinite; NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Seller hereby declares, covenants, and agrees as follows: PURCHASE PRICE: PURCHASED AMOUNT / RTR PURCHASED PERCENTAGE ESTIMATED REMITTANCE AMOUNT** FREQUENCY TOTAL AMOUNT SELLER WILL RECEIVE++ $13,000 $19,487 4.9% $149.90 daily $11,440 Seller: JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference D/B/A JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Type of Business Entity Corp Limited Liability Company X Partnership Limited Partneship Limited Liability Partnership Sole Prop Entity State SC Physical Address 9115 Creek Run, Ladson, SC 29456-3514 Mailing Address 9115 Creek Run, Ladson, SC 29456-3514 EIN# 32-0677887 Email jldelectric21@gmail.com",
+      "generatedP8": "Initials: _____ AGREEMENT FOR PURCHASE AND SALE OF FUTURE RECEIVABLES (hereinafter \"PSFRA\", which together with the SELLER AGREEMENT TERMS AND CONDITIONS, the SECURITY AGREEMENT, the PERSONAL GUARANTY(S) OF PERFORMANCE, the POWER OF ATTORNEY, APPENDIX A: THE FEE STRUCTURE, SCHEDULE A: LIST OF MERCHANT ENTITIES, and any appendices and addenda hereto and executed in conjunction herewith, shall be collectively referred to as the \"Agreement\"), made at the specific insistence and request of the entities listed below (\"Seller\") on 05/04/26 and made within the State of New York, County of Nassau, by and between East Shore Equities SMB, LLC., mailing address at P.O. Box 18, Centereach, NY 11720 (the \"Company\"), and Seller, having an office at 9115 Creek Run, Ladson, SC 29456-3514. * Fee Schedule: See Appendix A:The Fee Structure ** Estimated Remittance Amount represents a good faith estimate of the monetary value of the purchased percentage of daily or weekly receipts based upon historical information provided by Seller and is subject to adjustment to more precisely reflect the actual purchased percentage of daily or weekly receipts pursuant to paragraph 1.4 of this Agreement. + + This amount is calculated as the Purchase Price less any Origination Fees set forth in the above Appendix A: The Fee Structure. Please note: In the event of a renewal or a Payoff of a third party, the \"Total Amount Seller Will Receive\" referenced above will account for payoff of your current outstanding balance or funds paid to satisfy a designated third party. WHEREAS, Seller intends to assign, and Company intends to purchase, a portion of Seller's future receivables; and WHEREAS, Seller hereby, for the purchase price set forth above (the \"Purchase Price\") less any Origination Fees set forth above, does sell, demise and assign the Purchased Percentage of Seller's future receivables, future accounts, future contract rights and other future obligations arising from or relating to the future payment of monies received by Seller (collectively \"Future Receipts\"), as set forth below (the \"Purchased Percentage\"), to Company, whether the proceeds are paid by Cash, ACH, Check, Credit Card, Debit Card, Bank Card, Charge Card, PayPal, Venmo, Zelle, electronic transfer or any other form of payment in the ordinary course of the Seller's business, for the payment of Seller's sale of goods or services (collectively, the \"Purchased Amount\" or \"RTR\") until the Company has received the specified Purchased Amount above; and WHEREAS, Company acknowledges that its recovery of the Purchased Amount is dependent upon Seller's success and that so long as Company receives its Purchased Percentage of Future Sale Proceeds as required hereunder, the amount of time necessary for Company to recover the Purchased Amount is indefinite; NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Seller hereby declares, covenants, and agrees as follows: PURCHASE PRICE: PURCHASED AMOUNT / RTR PURCHASED PERCENTAGE ESTIMATED REMITTANCE AMOUNT** FREQUENCY TOTAL AMOUNT SELLER WILL RECEIVE++ $13,000 $19,487 4.9% $149.90 daily $11,440 Seller: JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference D/B/A JL&D Electric LLC and JULIO VELAZQUEZ VILLALOBOS DBA JL&D Electric LLC , and each additional entity listed in Schedule A attached hereto and incorporated herein by reference Type of Business Entity Corp Limited Liability Company X Partnership Limited Partneship Limited Liability Partnership Sole Prop Entity State SC Physical Address 9115 Creek Run, Ladson, SC 29456-3514 Mailing Address 9115 Creek Run, Ladson, SC 29456-3514 EIN# 32-0677887 Email jldelectric21@gmail.com",
+      "originalP11": "Initials : _____ ANY MISREPRESENTATION MADE BY SELLER OR ANY AGENT OF SELLER IN CONNECTION WITH OR IN THE PROCUREMENT OF THIS AGREEMENT SHALL CONSTITUTE AN IMMEDIATE DEFAULT HEREUNDER. By: By: Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title 976-95-6559 Print Name and Title SS# SS# OWNER/GUARANTOR #1 OWNER/GUARANTOR #2 By: By: Signature JULIO VELAZQUEZ VILLALOBOS/ Owner Signature /Owner Print Name and Title Print Name and Title",
+      "generatedP11": "Initials: _____ ANY MISREPRESENTATION MADE BY SELLER OR ANY AGENT OF SELLER IN CONNECTION WITH OR IN THE PROCUREMENT OF THIS AGREEMENT SHALL CONSTITUTE AN IMMEDIATE DEFAULT HEREUNDER. By: Signature Print Name and Title JULIO VELAZQUEZ VILLALOBOS/Owner SS# 976-95-6559 By: Signature Print Name and Title /Owner SS# OWNER/GUARANTOR #1 OWNER/GUARANTOR #2 By: Signature Print Name and Title JULIO VELAZQUEZ VILLALOBOS/Owner By: Signature Print Name and Title /Owner",
+      "generatedContainsPagesEnding": false
+    },
+    "counts": {
+      "originalCounts": {
+        "ach": 4,
+        "ownerGuarantor2": 8,
+        "seller2": 7,
+        "ordinaryCourse": 1,
+        "liquidatedDamages": 2,
+        "governingLaw": 1
+      },
+      "generatedCounts": {
+        "ach": 4,
+        "ownerGuarantor2": 8,
+        "seller2": 7,
+        "ordinaryCourse": 1,
+        "liquidatedDamages": 2,
+        "governingLaw": 1
+      }
+    }
+  },
+  "failures": []
+}
