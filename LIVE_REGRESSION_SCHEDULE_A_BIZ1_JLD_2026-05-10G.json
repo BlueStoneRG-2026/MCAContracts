@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "appUrl": "https://esedocs.tryangleai.com/",
+  "pages": 58,
+  "main": "/Users/juanreyes/Documents/Codex/2026-05-08/open-the-github-repo-first-and/MCAContracts-main/live_public_final_audit_2026_05_10/live_regression_2026_05_10g/JL_D_Electric_LLC_MCA_Contract_SMB_LIVE_BIZ1_JLD_REGRESSION.pdf",
+  "writtenConsent": "/Users/juanreyes/Documents/Codex/2026-05-08/open-the-github-repo-first-and/MCAContracts-main/live_public_final_audit_2026_05_10/live_regression_2026_05_10g/JL_D_Electric_LLC_Written_Consent_SMB_LIVE_BIZ1_JLD_REGRESSION.pdf",
+  "expectedPresent": true,
+  "badPhrasePresent": false,
+  "expected": "# Legal Business Name Entity Type State Business Address 1 JL&D DBA SC 9115 Creek Run, Ladson, SC 29456-3514",
+  "bad": "# Legal Business Name Entity Type State Business Address 1 JL&D LLC/Corp SC 9115 Creek Run, Ladson, SC 29456-3514"
+}
